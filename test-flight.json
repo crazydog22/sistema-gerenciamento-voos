@@ -1,0 +1,8 @@
+{
+    "flightNumber": "JJ5678",
+    "origin": "Sao Paulo",
+    "destination": "Rio de Janeiro",
+    "departureDate": "2025-04-08T10:00:00.000Z",
+    "totalSeats": 180,
+    "price": 350.00
+}
