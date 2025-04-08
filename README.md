@@ -119,6 +119,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## Contato
 
-Seu Nome - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+Seu Nome - [fabricioisaac.silva@gmail.com](mailto:seu-email@exemplo.com)
 
-Link do projeto: [https://github.com/seu-usuario/sistema-gerenciamento-voos](https://github.com/seu-usuario/sistema-gerenciamento-voos)
+Link do projeto: [https://github.com/crazydo22/sistema-gerenciamento-voos](https://github.com/seu-usuario/sistema-gerenciamento-voos)
